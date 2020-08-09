@@ -207,3 +207,50 @@ header{
     width: 100%;
     transform: scale(1.03);
 }
+
+/*-----------------------------------------*/
+/* HOW IT WORKS */
+/*-----------------------------------------*/
+
+.steps-box:first-child{
+    text-align: right;
+    padding-right: 3%;
+}
+
+.steps-box:last-child{
+    padding-left: 3%;
+}
+.app-screen{
+    width: 40%;
+    
+}
+.works-step{
+    margin-bottom: 50px;
+}
+.works-step div{
+    float: left;
+    color: #e67e22;
+    border: 2px solid #e67e22;
+    display: inline-block;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 5px;
+    font-size: 150%;
+    margin-right: 25px;
+
+}
+
+.btn-app:link
+.btn-app:visited{
+    border:0;
+}
+.btn-app img{
+    height:50px;
+    width:auto;
+    margin-right: 10px;
+}
+.works-step:last-of-type{
+    margin-bottom: 80px;
+} 
