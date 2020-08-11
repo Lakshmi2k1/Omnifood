@@ -10,7 +10,9 @@
     box-sizing: border-box;
 }
 
-html{
+html,
+body {
+    overflow-x: hidden;
     background-color: #fff;
     color: #555;
     font-family: 'Lato', 'Arial', 'san-serif';
@@ -288,7 +290,6 @@ header{
     padding: 5px;
     font-size: 150%;
     margin-right: 25px;
-
 }
 .btn-app:link,
 .btn-app:visited{
