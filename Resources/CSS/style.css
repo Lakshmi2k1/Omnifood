@@ -187,6 +187,14 @@ header{
     float: left;
     margin-top: 20px;
 }
+.logo-black { 
+    display: none; 
+    height: 50px;
+    width: auto;
+    float: left;
+    margin: 5px 0px;
+}
+/* Main - navi*/
 .main-nav{
     float: right;
     list-style: none;
@@ -211,6 +219,39 @@ header{
     border-bottom: solid 2px #e67e22 ;
 }
 
+/* Mobile navi */
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #fff;
+}
+
+/* Sticky navi */
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.98);
+    box-shadow: 0 2px 2px #efefef;
+    z-index: 9999;
+}
+
+.sticky .main-nav { margin-top: 18px; }
+
+.sticky .main-nav li a:link,
+.sticky .main-nav li a:visited {
+    padding: 16px 0;
+    color: #555;
+}
+
+.sticky .logo { display: none; }
+.sticky .logo-black { display: block; }
 /*-----------------------------------------*/
 /* FEATURES */
 /*-----------------------------------------*/
@@ -281,7 +322,7 @@ header{
 .works-step div{
     color: #e67e22;
     border: 2px solid #e67e22;
-    display: inline-block;
+    /* display: inline-block; */
     float: left;
     border-radius: 50%;
     height: 55px;
@@ -484,3 +525,4 @@ footer p{
     text-align: center;
     margin-top: 20px;
 }
+

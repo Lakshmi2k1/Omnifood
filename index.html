@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="vendors/css/ionicons.min.css">
     <link rel="stylesheet" href="Resources/CSS/query.css">
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap" rel="stylesheet">
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Omnifood</title>
@@ -15,23 +14,29 @@
 
 <body>
     <header>
+        <nav>
         <div class="row">
             <img src="Resources\img\logo-white.png" alt="Omnifood logo" class="logo">
-            <ul class="main-nav">
-                <li><a href="#">Food delivery</a></li>
-                <li><a href="#">How it works</a></li>
-                <li><a href="#">Our cities</a></li>
-                <li><a href="#">Sign up </a></li>
+            <img src="/Resources/img/logo.png" alt="Omnifood logo" class="logo-black">
+            <ul class="main-nav js--main-nav">
+                <li><a href="#features">Food delivery</a></li>
+                <li><a href="#works">How it works</a></li>
+                <li><a href="#cities">Our cities</a></li>
+                <li><a href="#plans">Sign up </a></li>
             </ul>
+            
+            <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
+        
         </div>
+        </nav>
         <div class="hero-text-box">
             <h1>Goodbye junk food.<br>Hello super healthy meals.</h1>
-            <a class= "btn btn-full" href="#">I’m hungry </a>
-            <a class="btn btn-ghost" href="#">Show me more</a>
+            <a class= "btn btn-full js--scroll-to-plans" href="#">I’m hungry </a>
+            <a class="btn btn-ghost js--scroll-to-start" href="#">Show me more</a>
         </div>
     </header>
 
-    <section class="section-features">
+    <section class="section-features js--section-features" id="features">
         <div class="row">
             <h2>Get food fast &mdash; not fast food.</h2>
             <p class="long-copy">
@@ -39,7 +44,7 @@
                 No time for cooking. So let us take care of that, we’re really good at it, we promise!
             </p>
         </div>
-        <div class="row">
+        <div class="row js--wp-1">
             <div class="col span-1-of-4 box">
                 <i class="ion-ios-infinite-outline icon-big"></i>
                 <h3>Up to 365 days/year</h3>
@@ -132,7 +137,7 @@
         </ul>
     </section>
 
-    <section class="section-steps">
+    <section class="section-steps" id="works">
         <div class="row">
             <h2>How it works &mdash; Simple as 1, 2, 3</h2>
         </div>
@@ -162,7 +167,7 @@
         </div>
     </section>
 
-    <section class="section-cities">
+    <section class="section-cities" id="cities">
         <div class="row">
             <h2>We're currently in these cities</h2>
         </div>
@@ -268,7 +273,7 @@ Keep up the great work!
         </div>
  </section>
 
- <section class="section-plans">
+ <section class="section-plans js--section-plans" id="plans">
     <div class="row">
         <h2>Start eating healthy today</h2>
     </div>
@@ -425,6 +430,13 @@ Keep up the great work!
         </p>
     </div>
 </footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
+<script src="/vendors/js/jquery.waypoints.min.js"></script>
+<script src="Resources\js\script.js"></script>
 </body>
 </html>
 
