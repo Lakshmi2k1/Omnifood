@@ -1,0 +1,98 @@
+#TYPE Microsoft.Azure.PowerShell.Cmdlets.Resources.MSGraph.Models.ApiV10.MicrosoftGraphGroup
+"AppRoleAssignment","Classification","CreatedDateTime","CreatedOnBehalfOf","DeletedDateTime","Description","DisplayName","ExpirationDateTime","GroupLifecyclePolicy","GroupType","HasMembersWithLicenseError","Id","IsArchived","IsAssignableToRole","Mail","MailEnabled","MailNickname","Member","MemberOf","MembersWithLicenseError","MembershipRule","MembershipRuleProcessingState","OdataId","OdataType","Owner","PermissionGrant","PreferredDataLocation","PreferredLanguage","ProxyAddress","RenewedDateTime","SecurityEnabled","SecurityIdentifier","Theme","Visibility","AdditionalProperties"
+,,"4/26/2022 7:04:34 AM","{
+}",,"EDM_TST_TABLEAU_GRP_Test_Site_Explorer","EDM_TST_TABLEAU_GRP_Test_Site_Explorer",,,"System.String[]",,"01173c0f-f680-481d-ae29-68cd217aa509",,,,"False","3e506b36-2",,,,,,,,,,,,"System.String[]","4/26/2022 7:04:34 AM","True","S-1-12-1-18299919-1209923200-3446155694-161839649",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/12/2022 6:13:21 AM","{
+}",,"EDM_SIT_PEGA_GRP_DCA","EDM_SIT_PEGA_GRP_DCA",,,"System.String[]",,"0374af3c-2c90-4aee-8928-2fc6b360e6d6",,,,"False","a5f5d930-4",,,,,,,,,,,,"System.String[]","4/12/2022 6:13:21 AM","True","S-1-12-1-57978684-1257122960-3324979337-3605422259",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/26/2022 7:07:19 AM","{
+}",,"EDM_TST_TABLEAU_GRP_SSFSL_Developer","EDM_TST_TABLEAU_GRP_SSFSL_Developer",,,"System.String[]",,"052c3ac3-f52d-461a-b9d2-670f35852286",,,,"False","27f0322d-2",,,,,,,,,,,,"System.String[]","4/26/2022 7:07:19 AM","True","S-1-12-1-86784707-1176171821-258462393-2250409269",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/21/2022 4:43:46 PM","{
+}",,,"Testing User Admin",,,"System.String[]",,"0850f3d6-cab1-4505-9c6f-680fa29131a3",,"True",,"False","54a8c62c-3",,,,,,,,,,,,"System.String[]","3/21/2022 4:43:46 PM","True","S-1-12-1-139523030-1158007473-258502556-2737934754",,"Private","System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/12/2022 5:43:08 AM","{
+}",,"EDM_TST_PEGA_GRP_CustomerAgent","EDM_TST_PEGA_GRP_CustomerAgent",,,"System.String[]",,"08eeaa02-5d63-4986-97ee-02b7b06f6da2",,,,"False","70073780-6",,,,,,,,,,,,"System.String[]","4/12/2022 5:43:08 AM","True","S-1-12-1-149858818-1233542499-3070422679-2725081008",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/8/2022 9:13:34 AM","{
+}",,"EDM_TST_PEGA_GRP_Buyer","EDM_TST_PEGA_GRP_Buyer",,,"System.String[]",,"0d2f301d-898f-4b5a-97ae-2acafc0a7201",,,,"False","320a41d0-6",,,,,,,,,,,,"System.String[]","4/8/2022 9:13:34 AM","True","S-1-12-1-221196317-1264224655-3391794839-24251132",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/25/2022 11:14:57 AM","{
+}",,"EDM_DEV_PEGA_GRP_MSPAgent","EDM_DEV_PEGA_GRP_MSPAgent",,,"System.String[]",,"18f4ed5d-b558-43b7-a2ad-ff5778a897bb",,,,"False","654fc70d-d",,,,,,,,,,,,"System.String[]","3/25/2022 11:14:57 AM","True","S-1-12-1-418704733-1136112984-1476373922-3147278456",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"5/11/2022 8:56:57 AM","{
+}",,"EDM_SIT_PEGA_GRP_Manager","EDM_SIT_PEGA_GRP_Manager",,,"System.String[]",,"25ea7b9f-6a5c-4f7b-9d28-686dfd38a103",,,,"False","f1ba5e00-4",,,,,,,,,,,,"System.String[]","5/11/2022 8:56:57 AM","True","S-1-12-1-636124063-1333488220-1835542685-60897533",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/25/2022 9:28:38 AM","{
+}",,"EDM_TST_TABLEAU_GRP_ADMIN","EDM_TST_TABLEAU_GRP_ADMIN",,,"System.String[]",,"3423a4d7-3a58-4f30-b10e-f0d94d909561",,,,"False","8dbe9375-2",,,,,,,,,,,,"System.String[]","4/25/2022 9:28:38 AM","True","S-1-12-1-874751191-1328560728-3656388273-1637191757",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/26/2022 7:09:09 AM","{
+}",,"EDM_TST_TABLEAU_GRP_SSFSL_Explorer","EDM_TST_TABLEAU_GRP_SSFSL_Explorer",,,"System.String[]",,"3ce5a298-0e93-45da-8fef-77f6e1e22ed2",,,,"False","784aa249-7",,,,,,,,,,,,"System.String[]","4/26/2022 7:09:09 AM","True","S-1-12-1-1021682328-1171918483-4135055247-3526288097",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"1/27/2023 2:06:05 PM","{
+}",,,"Require MFA",,,"System.String[]",,"47115891-46c1-4b35-b60e-8ab7c73a2f61",,,,"False","07328a6d-d",,,,,,,,,,,,"System.String[]","1/27/2023 2:06:05 PM","True","S-1-12-1-1192319121-1261782721-3079278262-1630485191",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/26/2022 7:06:47 AM","{
+}",,"EDM_TST_TABLEAU_GRP_Test_Site_Viewer","EDM_TST_TABLEAU_GRP_Test_Site_Viewer",,,"System.String[]",,"47a42349-eae1-43c8-8158-329ce006f964",,,,"False","0ad598c2-c",,,,,,,,,,,,"System.String[]","4/26/2022 7:06:47 AM","True","S-1-12-1-1201939273-1137240801-2620545153-1694041824",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/25/2022 11:16:01 AM","{
+}",,"EDM_DEV_PEGA_GRP_DCA","EDM_DEV_PEGA_GRP_DCA",,,"System.String[]",,"4cb1a1b4-a3a6-4439-b8ea-1e909628d5fd",,,,"False","d084e563-1",,,,,,,,,,,,"System.String[]","3/25/2022 11:16:01 AM","True","S-1-12-1-1286709684-1144628134-2417945272-4258605206",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/23/2022 9:53:35 AM","{
+}",,,"Buyer",,,"System.String[]",,"531d81a4-69ed-4234-a765-5167a4890621",,,,"False","1201ebf6-a",,,,,,,,,,,,"System.String[]","3/23/2022 9:53:35 AM","True","S-1-12-1-1394442660-1110731245-1733387687-554076580",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/11/2022 2:46:26 PM","{
+}",,"EDM_TST_PEGA_GRP_MSPSupervisor","EDM_TST_PEGA_GRP_MSPSupervisor",,,"System.String[]",,"5bed127f-d04a-4156-94e7-d5bcd29f0ec8",,,,"False","6eb3eefe-a",,,,,,,,,,,,"System.String[]","4/11/2022 2:46:26 PM","True","S-1-12-1-1542263423-1096208458-3168135060-3356401618",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/21/2022 4:50:20 PM","{
+}",,"Users that have access to the Development Pega SSO Application","dt1_PegaSSO",,,"System.String[]",,"5d5fca7d-d979-4ffb-b863-29f1dee41548",,,,"False","4371dbbf-d",,,,,,,,,,,,"System.String[]","3/21/2022 4:50:20 PM","True","S-1-12-1-1566558845-1341905273-4046021560-1209394398",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/12/2022 6:13:58 AM","{
+}",,"EDM_SIT_PEGA_GRP_MSPAgent","EDM_SIT_PEGA_GRP_MSPAgent",,,"System.String[]",,"63eef32c-5a48-4153-bb4a-cd2f29cc17a8",,,,"False","2a64fc78-f",,,,,,,,,,,,"System.String[]","4/12/2022 6:13:58 AM","True","S-1-12-1-1676604204-1095981640-801983163-2820131881",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/11/2022 12:04:11 PM","{
+}",,"EDM_DEV_PEGA_GRP_CustomerAgent","EDM_DEV_PEGA_GRP_CustomerAgent",,,"System.String[]",,"64a72ceb-0c5b-4eb5-9e68-4f67a393f7c3",,,,"False","dbc8d357-0",,,,,,,,,,,,"System.String[]","4/11/2022 12:04:11 PM","True","S-1-12-1-1688677611-1320488027-1733257374-3287782307",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"2/2/2023 4:31:59 PM","{
+}",,"EDM_TST_PEGA_GRP_Col_Administrator","EDM_TST_PEGA_GRP_Col_Administrator",,,"System.String[]",,"65166f13-409e-43e3-85ee-95a172926fb0",,,,"False","740668c9-e",,,,,,,,,,,,"System.String[]","2/2/2023 4:31:59 PM","True","S-1-12-1-1695969043-1138966686-2710957701-2960102002",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/12/2022 6:14:40 AM","{
+}",,"EDM_SIT_PEGA_GRP_CustomerAgent","EDM_SIT_PEGA_GRP_CustomerAgent",,,"System.String[]",,"736c6076-1ce3-43d9-9af7-cf03646263f7",,,,"False","3f4147cf-a",,,,,,,,,,,,"System.String[]","4/12/2022 6:14:40 AM","True","S-1-12-1-1936482422-1138302179-63960986-4150485604",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/25/2022 9:32:54 AM","{
+}",,"EDM_TST_TABLEAU_GRP_ABC1001_Explorer","EDM_TST_TABLEAU_GRP_ABC1001_Explorer",,,"System.String[]",,"770cd6c5-91f0-45ff-ad58-bbe7f9e0dd6e",,,,"False","02aa3fbd-d",,,,,,,,,,,,"System.String[]","4/25/2022 9:32:54 AM","True","S-1-12-1-1997330117-1174376944-3887814829-1860034809",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/25/2022 9:32:10 AM","{
+}",,"EDM_TST_TABLEAU_GRP_ABC1001_Developer","EDM_TST_TABLEAU_GRP_ABC1001_Developer",,,"System.String[]",,"7b1681b9-722a-4393-a90d-59c8afa52864",,,,"False","fbdc2ba4-1",,,,,,,,,,,,"System.String[]","4/25/2022 9:32:10 AM","True","S-1-12-1-2065072569-1133736490-3361279401-1680385455",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/25/2022 11:14:41 AM","{
+}",,"EDM_DEV_PEGA_GRP_Buyer","EDM_DEV_PEGA_GRP_Buyer",,,"System.String[]",,"7b5486a5-a823-4193-b5d9-85aeb45209ab",,,,"False","d4cceeec-b",,,,,,,,,,,,"System.String[]","3/25/2022 11:14:41 AM","True","S-1-12-1-2069137061-1100195875-2928007605-2869514932",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/21/2022 4:52:55 PM","{
+}",,"Users that have access to the Testing Pega SSO Application","tst_PegaSSO",,,"System.String[]",,"816ae3cc-4ec6-431a-93f3-fc9757ed9e71",,,,"False","f83a84b8-1",,,,,,,,,,,,"System.String[]","3/21/2022 4:52:55 PM","True","S-1-12-1-2171265996-1125797574-2549937043-1906240855",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"11/9/2022 9:46:56 AM","{
+}",,"EDM_TST_PEGA_GRP_Manager","EDM_TST_PEGA_GRP_Manager",,,"System.String[]",,"8cb17cc9-8407-4537-87e4-a38fea2014dc",,,,"False","75701728-c",,,,,,,,,,,,"System.String[]","11/9/2022 9:46:56 AM","True","S-1-12-1-2360442057-1161266183-2409882759-3692306666",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/12/2022 5:37:22 AM","{
+}",,"EDM_TST_PEGA_GRP_DCA","EDM_TST_PEGA_GRP_DCA",,,"System.String[]",,"a1e7b4b1-6d9e-42e7-a989-42b724500a99",,,,"False","1df81eec-6",,,,,,,,,,,,"System.String[]","4/12/2022 5:37:22 AM","True","S-1-12-1-2716316849-1122463134-3074591145-2567589924",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"2/2/2023 4:34:16 PM","{
+}",,"EDM_SIT_PEGA_GRP_BP_Administrator","EDM_SIT_PEGA_GRP_BP_Administrator",,,"System.String[]",,"ab3a929c-d8a2-4dfe-9af2-756f035e2a1b",,,,"False","50cace9b-8",,,,,,,,,,,,"System.String[]","2/2/2023 4:34:16 PM","True","S-1-12-1-2872742556-1308547234-1870000794-455761411",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/12/2022 6:12:50 AM","{
+}",,"EDM_SIT_PEGA_GRP_MSPSupervisor","EDM_SIT_PEGA_GRP_MSPSupervisor",,,"System.String[]",,"ae4548e8-153b-4f9e-99e4-fcfcabf44c09",,,,"False","efaa837e-d",,,,,,,,,,,,"System.String[]","4/12/2022 6:12:50 AM","True","S-1-12-1-2923776232-1335760187-4244432025-156038315",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/21/2022 4:43:22 PM","{
+}",,,"Development User Admin",,,"System.String[]",,"b2cfd52a-fda1-444b-b8b2-0f6041ef5f3d",,"True",,"False","5a4b8f7b-0",,,,,,,,,,,,"System.String[]","3/21/2022 4:43:22 PM","True","S-1-12-1-2999964970-1145830817-1611641528-1029697345",,"Private","System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/26/2022 7:07:38 AM","{
+}",,"EDM_TST_TABLEAU_GRP_SSFSL_Viewer","EDM_TST_TABLEAU_GRP_SSFSL_Viewer",,,"System.String[]",,"b3143a32-b447-4bdc-94ba-0b9fdf49a892",,,,"False","acc72496-e",,,,,,,,,,,,"System.String[]","4/26/2022 7:07:38 AM","True","S-1-12-1-3004447282-1272755271-2668346004-2460502495",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"1/25/2023 4:33:13 PM","{
+}",,"EDM_DEV_PEGA_GRP_BP_Administrator","EDM_DEV_PEGA_GRP_BP_Administrator",,,"System.String[]",,"b46406d8-d713-49da-9b28-8140349893e3",,,,"False","919842fc-1",,,,,,,,,,,,"System.String[]","1/25/2023 4:33:13 PM","True","S-1-12-1-3026454232-1239078675-1082206363-3818100788",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"1/25/2023 4:59:47 PM","{
+}",,"EDM_DEV_PEGA_GRP_Col_Administrator","EDM_DEV_PEGA_GRP_Col_Administrator",,,"System.String[]",,"b5eadc38-3129-4cb7-b33b-d585831ac4fb",,,,"False","6b28470c-1",,,,,,,,,,,,"System.String[]","1/25/2023 4:59:47 PM","True","S-1-12-1-3052067896-1287074089-2245344179-4223933059",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/30/2022 9:48:56 AM","{
+}",,,"App Admins",,,"System.String[]",,"ba60d288-5732-401a-891f-b6f5b380c254",,"True",,"False","51f4ce13-5",,,,,,,,,,,,"System.String[]","3/30/2022 9:48:56 AM","True","S-1-12-1-3126907528-1075468082-4122353545-1422033075",,"Private","System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"2/6/2023 4:33:23 PM","{
+}",,"EDM_DEV_PEGA_GRP_Col_DevAdministrator","EDM_DEV_PEGA_GRP_Col_DevAdministrator",,,"System.String[]",,"c1091745-5997-4896-b1e5-3dee3740e559",,,,"False","f00171ea-5",,,,,,,,,,,,"System.String[]","2/6/2023 4:33:23 PM","True","S-1-12-1-3238598469-1217812887-3997033905-1508196407",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"5/9/2022 2:00:38 PM","{
+}",,"EDM_DEV_PEGA_GRP_Manager","EDM_DEV_PEGA_GRP_Manager",,,"System.String[]",,"c5470fb2-be51-4f1e-a6ac-79a9f34fa795",,,,"False","f07b1540-6",,,,,,,,,,,,"System.String[]","5/9/2022 2:00:38 PM","True","S-1-12-1-3309768626-1327414865-2843323558-2510770163",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/28/2022 8:40:15 AM","{
+}",,"Users who can reset theri own passwords","edm_pwd-reset",,,"System.String[]",,"caf1afca-f0fa-4c34-9173-0ac9ded411d6",,,,"False","4f1982d9-d",,,,,,,,,,,,"System.String[]","4/28/2022 8:40:15 AM","True","S-1-12-1-3404836810-1278537978-3372905361-3591492830",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/22/2022 2:54:24 PM","{
+}",,,"User Admins",,,"System.String[]",,"d3c858e6-e611-481e-b21b-9fefb6e16eef",,"True",,"False","27e1e2ab-8",,,,,,,,,,,,"System.String[]","3/22/2022 2:54:24 PM","True","S-1-12-1-3553122534-1209984529-4020181938-4017021366",,"Private","System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/21/2022 1:36:19 PM","{
+}",,"EDM_TST_TABLEAU_GRP_Test_Site_1_ALL","EDM_TST_TABLEAU_GRP_Test_Site_1_ALL",,,"System.String[]",,"d4b070d8-dd25-49aa-9847-8a00a5002af6",,,,"False","9090d355-3",,,,,,,,,,,,"System.String[]","4/21/2022 1:36:19 PM","True","S-1-12-1-3568333016-1235934501-9062296-4129947813",,"Public","System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/23/2022 2:20:34 PM","{
+}",,"DT1 Managers ","dt1_SSO_Managers",,,"System.String[]",,"e1b418d0-7bd5-43ae-b6dd-30d4c4b827f4",,,,"False","7f584aad-5",,,,,,,,,,,,"System.String[]","3/23/2022 2:20:34 PM","True","S-1-12-1-3786676432-1135508437-3559972278-4096243908",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"2/2/2023 4:33:59 PM","{
+}",,"EDM_SIT_PEGA_GRP_Col_Administrator","EDM_SIT_PEGA_GRP_Col_Administrator",,,"System.String[]",,"e3b75ab1-d185-4320-aa7f-4624293c5259",,,,"False","1a61201e-8",,,,,,,,,,,,"System.String[]","2/2/2023 4:33:59 PM","True","S-1-12-1-3820444337-1126224261-608599978-1498561577",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"2/2/2023 4:31:14 PM","{
+}",,"EDM_DEV_PEGA_GRP_BP_Administrator","EDM_TST_PEGA_GRP_BP_Administrator",,,"System.String[]",,"e57f9925-ecba-4c9f-be49-4663e75a7a6b",,,,"False","6e3cf94b-b",,,,,,,,,,,,"System.String[]","2/2/2023 4:31:14 PM","True","S-1-12-1-3850344741-1285549242-1665550782-1803180775",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/23/2022 9:53:44 AM","{
+}",,,"Manager",,,"System.String[]",,"ecb64b09-c365-4d86-b0a8-a96df8e7c2cf",,,,"False","be3f3d30-a",,,,,,,,,,,,"System.String[]","3/23/2022 9:53:44 AM","True","S-1-12-1-3971369737-1300677477-1839835312-3485657080",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/25/2022 11:14:00 AM","{
+}",,"EDM_DEV_PEGA_GRP_MSPSupervisor","EDM_DEV_PEGA_GRP_MSPSupervisor",,,"System.String[]",,"edaabb57-2457-4a98-966e-92c60c9ed735",,,,"False","c1c5fa8f-0",,,,,,,,,,,,"System.String[]","3/25/2022 11:14:00 AM","True","S-1-12-1-3987389271-1251484759-3331485334-903323148",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/25/2022 9:32:27 AM","{
+}",,"EDM_TST_TABLEAU_GRP_ABC1001_Viewer","EDM_TST_TABLEAU_GRP_ABC1001_Viewer",,,"System.String[]",,"f128cbb7-c0e0-4b6e-a7dd-b86c0b88344a",,,,"False","786d8017-8",,,,,,,,,,,,"System.String[]","4/25/2022 9:32:27 AM","True","S-1-12-1-4045982647-1265549536-1824054695-1244956683",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/11/2022 10:14:50 AM","{
+}",,"EDM_SIT_PEGA_GRP_Buyer","EDM_SIT_PEGA_GRP_Buyer",,,"System.String[]",,"f2b91a32-e544-476a-9e33-8c3e3a23c2ff",,,,"False","0b8ba344-a",,,,,,,,,,,,"System.String[]","4/11/2022 10:14:50 AM","True","S-1-12-1-4072217138-1198187844-1049375646-4290913082",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"3/31/2022 8:14:14 AM","{
+}",,"Test Group for Tableau in EDM Test Environment","EDM_TST_GRP_TABLEAU",,,"System.String[]",,"f720f951-dd9b-49cf-8ddb-2179add184b4",,,,"False","33f59e63-b",,,,,,,,,,,,"System.String[]","3/31/2022 8:14:14 AM","True","S-1-12-1-4146133329-1238359451-2032262029-3028603309",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/26/2022 7:04:07 AM","{
+}",,"EDM_TST_TABLEAU_GRP_Test_Site_Developer","EDM_TST_TABLEAU_GRP_Test_Site_Developer",,,"System.String[]",,"ff3342ef-a099-4388-b371-9e4c8ceae553",,,,"False","5ac098b2-7",,,,,,,,,,,,"System.String[]","4/26/2022 7:04:07 AM","True","S-1-12-1-4281549551-1133027481-1285452211-1407576716",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
+,,"4/12/2022 5:38:35 AM","{
+}",,"EDM_TST_PEGA_GRP_MSPAgent","EDM_TST_PEGA_GRP_MSPAgent",,,"System.String[]",,"ff3e4bc6-ce66-4099-8e04-3cd44a00a82b",,,,"False","f42170de-7",,,,,,,,,,,,"System.String[]","4/12/2022 5:38:35 AM","True","S-1-12-1-4282272710-1083821670-3560703118-732430410",,,"System.Collections.Generic.Dictionary`2[System.String,System.Object]"
