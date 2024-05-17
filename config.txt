@@ -1,0 +1,4 @@
+Host Bastion
+	HostName 3.239.225.188
+	User ec2-user
+	IdentityFile "C:/Users/ssoundrapandi/Documents/key/Linuxkey.pem"
